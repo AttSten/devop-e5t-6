@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AttSten/devop-e5t-6/static/css/main.736ccca2.css",
-    "main.js": "/AttSten/devop-e5t-6/static/js/main.5129740f.js",
-    "index.html": "/AttSten/devop-e5t-6/index.html",
-    "main.736ccca2.css.map": "/AttSten/devop-e5t-6/static/css/main.736ccca2.css.map",
-    "main.5129740f.js.map": "/AttSten/devop-e5t-6/static/js/main.5129740f.js.map"
+    "main.css": "./static/css/main.736ccca2.css",
+    "main.js": "./static/js/main.5129740f.js",
+    "index.html": "./index.html",
+    "main.736ccca2.css.map": "./static/css/main.736ccca2.css.map",
+    "main.5129740f.js.map": "./static/js/main.5129740f.js.map"
   },
   "entrypoints": [
     "static/css/main.736ccca2.css",
