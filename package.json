@@ -2,7 +2,7 @@
   "name": "todo-with-github-actions-and-jest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/AttSten/devop-e5t-6",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
